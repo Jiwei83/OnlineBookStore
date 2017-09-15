@@ -1,0 +1,3 @@
+Email Register<br/>
+
+{{$content}}
